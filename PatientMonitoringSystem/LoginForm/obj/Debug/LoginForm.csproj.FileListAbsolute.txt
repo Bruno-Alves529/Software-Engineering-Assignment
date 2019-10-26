@@ -1,0 +1,9 @@
+C:\repos\S_E_Project\C sharp\PatientMonitoringSystem\LoginForm\bin\Debug\LoginForm.exe.config
+C:\repos\S_E_Project\C sharp\PatientMonitoringSystem\LoginForm\bin\Debug\LoginForm.exe
+C:\repos\S_E_Project\C sharp\PatientMonitoringSystem\LoginForm\bin\Debug\LoginForm.pdb
+C:\repos\S_E_Project\C sharp\PatientMonitoringSystem\LoginForm\obj\Debug\LoginForm.Form1.resources
+C:\repos\S_E_Project\C sharp\PatientMonitoringSystem\LoginForm\obj\Debug\LoginForm.Properties.Resources.resources
+C:\repos\S_E_Project\C sharp\PatientMonitoringSystem\LoginForm\obj\Debug\LoginForm.csproj.GenerateResource.Cache
+C:\repos\S_E_Project\C sharp\PatientMonitoringSystem\LoginForm\obj\Debug\LoginForm.csproj.CoreCompileInputs.cache
+C:\repos\S_E_Project\C sharp\PatientMonitoringSystem\LoginForm\obj\Debug\LoginForm.exe
+C:\repos\S_E_Project\C sharp\PatientMonitoringSystem\LoginForm\obj\Debug\LoginForm.pdb
