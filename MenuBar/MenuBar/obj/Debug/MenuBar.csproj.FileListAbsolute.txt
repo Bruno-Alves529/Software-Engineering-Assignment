@@ -1,0 +1,30 @@
+C:\Users\Andrius\OneDrive - Anglia Ruskin University\ANGLIARUSKI\Year2\Software engineering\New folder\MenuBar\MenuBar\bin\Debug\MenuBar.exe.config
+C:\Users\Andrius\OneDrive - Anglia Ruskin University\ANGLIARUSKI\Year2\Software engineering\New folder\MenuBar\MenuBar\bin\Debug\MenuBar.exe
+C:\Users\Andrius\OneDrive - Anglia Ruskin University\ANGLIARUSKI\Year2\Software engineering\New folder\MenuBar\MenuBar\bin\Debug\MenuBar.pdb
+C:\Users\Andrius\OneDrive - Anglia Ruskin University\ANGLIARUSKI\Year2\Software engineering\New folder\MenuBar\MenuBar\obj\Debug\MenuBar.csprojAssemblyReference.cache
+C:\Users\Andrius\OneDrive - Anglia Ruskin University\ANGLIARUSKI\Year2\Software engineering\New folder\MenuBar\MenuBar\obj\Debug\MenuBar.Form1.resources
+C:\Users\Andrius\OneDrive - Anglia Ruskin University\ANGLIARUSKI\Year2\Software engineering\New folder\MenuBar\MenuBar\obj\Debug\MenuBar.Properties.Resources.resources
+C:\Users\Andrius\OneDrive - Anglia Ruskin University\ANGLIARUSKI\Year2\Software engineering\New folder\MenuBar\MenuBar\obj\Debug\MenuBar.csproj.GenerateResource.cache
+C:\Users\Andrius\OneDrive - Anglia Ruskin University\ANGLIARUSKI\Year2\Software engineering\New folder\MenuBar\MenuBar\obj\Debug\MenuBar.csproj.CoreCompileInputs.cache
+C:\Users\Andrius\OneDrive - Anglia Ruskin University\ANGLIARUSKI\Year2\Software engineering\New folder\MenuBar\MenuBar\obj\Debug\MenuBar.exe
+C:\Users\Andrius\OneDrive - Anglia Ruskin University\ANGLIARUSKI\Year2\Software engineering\New folder\MenuBar\MenuBar\obj\Debug\MenuBar.pdb
+C:\Users\Andrius\OneDrive - Anglia Ruskin University\ANGLIARUSKI\Year2\Software engineering\menuBar\MenuBar\MenuBar\bin\Debug\MenuBar.exe.config
+C:\Users\Andrius\OneDrive - Anglia Ruskin University\ANGLIARUSKI\Year2\Software engineering\menuBar\MenuBar\MenuBar\bin\Debug\MenuBar.exe
+C:\Users\Andrius\OneDrive - Anglia Ruskin University\ANGLIARUSKI\Year2\Software engineering\menuBar\MenuBar\MenuBar\bin\Debug\MenuBar.pdb
+C:\Users\Andrius\OneDrive - Anglia Ruskin University\ANGLIARUSKI\Year2\Software engineering\menuBar\MenuBar\MenuBar\obj\Debug\MenuBar.csprojAssemblyReference.cache
+C:\Users\Andrius\OneDrive - Anglia Ruskin University\ANGLIARUSKI\Year2\Software engineering\menuBar\MenuBar\MenuBar\obj\Debug\MenuBar.Form1.resources
+C:\Users\Andrius\OneDrive - Anglia Ruskin University\ANGLIARUSKI\Year2\Software engineering\menuBar\MenuBar\MenuBar\obj\Debug\MenuBar.Properties.Resources.resources
+C:\Users\Andrius\OneDrive - Anglia Ruskin University\ANGLIARUSKI\Year2\Software engineering\menuBar\MenuBar\MenuBar\obj\Debug\MenuBar.csproj.GenerateResource.cache
+C:\Users\Andrius\OneDrive - Anglia Ruskin University\ANGLIARUSKI\Year2\Software engineering\menuBar\MenuBar\MenuBar\obj\Debug\MenuBar.csproj.CoreCompileInputs.cache
+C:\Users\Andrius\OneDrive - Anglia Ruskin University\ANGLIARUSKI\Year2\Software engineering\menuBar\MenuBar\MenuBar\obj\Debug\MenuBar.exe
+C:\Users\Andrius\OneDrive - Anglia Ruskin University\ANGLIARUSKI\Year2\Software engineering\menuBar\MenuBar\MenuBar\obj\Debug\MenuBar.pdb
+C:\Users\Andrius\Dropbox\MenuBar\MenuBar\bin\Debug\MenuBar.exe.config
+C:\Users\Andrius\Dropbox\MenuBar\MenuBar\bin\Debug\MenuBar.exe
+C:\Users\Andrius\Dropbox\MenuBar\MenuBar\bin\Debug\MenuBar.pdb
+C:\Users\Andrius\Dropbox\MenuBar\MenuBar\obj\Debug\MenuBar.csprojAssemblyReference.cache
+C:\Users\Andrius\Dropbox\MenuBar\MenuBar\obj\Debug\MenuBar.Form1.resources
+C:\Users\Andrius\Dropbox\MenuBar\MenuBar\obj\Debug\MenuBar.Properties.Resources.resources
+C:\Users\Andrius\Dropbox\MenuBar\MenuBar\obj\Debug\MenuBar.csproj.GenerateResource.cache
+C:\Users\Andrius\Dropbox\MenuBar\MenuBar\obj\Debug\MenuBar.csproj.CoreCompileInputs.cache
+C:\Users\Andrius\Dropbox\MenuBar\MenuBar\obj\Debug\MenuBar.exe
+C:\Users\Andrius\Dropbox\MenuBar\MenuBar\obj\Debug\MenuBar.pdb
