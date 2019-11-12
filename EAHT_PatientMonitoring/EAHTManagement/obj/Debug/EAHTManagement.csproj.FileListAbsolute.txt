@@ -1,0 +1,13 @@
+C:\Users\ademo\source\repos\EAHT_PatientMonitoring\EAHTManagement\obj\Debug\EAHTManagement.DBManagementForm.resources
+C:\Users\ademo\source\repos\EAHT_PatientMonitoring\EAHTManagement\obj\Debug\EAHTManagement.Properties.Resources.resources
+C:\Users\ademo\source\repos\EAHT_PatientMonitoring\EAHTManagement\obj\Debug\EAHTManagement.UserLoginForm.resources
+C:\Users\ademo\source\repos\EAHT_PatientMonitoring\EAHTManagement\obj\Debug\EAHTManagement.csproj.GenerateResource.Cache
+C:\Users\ademo\source\repos\EAHT_PatientMonitoring\EAHTManagement\obj\Debug\EAHTManagement.csproj.CoreCompileInputs.cache
+C:\Users\ademo\source\repos\EAHT_PatientMonitoring\EAHTManagement\bin\Debug\EAHTManagement.exe.config
+C:\Users\ademo\source\repos\EAHT_PatientMonitoring\EAHTManagement\bin\Debug\EAHTManagement.exe
+C:\Users\ademo\source\repos\EAHT_PatientMonitoring\EAHTManagement\bin\Debug\EAHTManagement.pdb
+C:\Users\ademo\source\repos\EAHT_PatientMonitoring\EAHTManagement\obj\Debug\EAHTManagement.exe
+C:\Users\ademo\source\repos\EAHT_PatientMonitoring\EAHTManagement\obj\Debug\EAHTManagement.pdb
+C:\Users\ademo\source\repos\EAHT_PatientMonitoring\EAHTManagement\obj\Debug\EAHTManagement.csprojResolveAssemblyReference.cache
+C:\Users\ademo\source\repos\EAHT_PatientMonitoring\EAHTManagement\bin\Debug\EAHTDataBase.mdf
+C:\Users\ademo\source\repos\EAHT_PatientMonitoring\EAHTManagement\bin\Debug\EAHTDataBase_log.ldf
