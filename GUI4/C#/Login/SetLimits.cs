@@ -22,5 +22,11 @@ namespace Login
             // saves the limit values in the DB
             //
         }
+
+        private void pictureBox4_Click(object sender, EventArgs e)
+        {
+            new Form3().Show();
+            this.Hide();
+        }
     }
 }

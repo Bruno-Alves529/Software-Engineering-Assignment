@@ -97,7 +97,7 @@
             // 
             this.smithJohnToolStripMenuItem1.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.smithJohnToolStripMenuItem1.Name = "smithJohnToolStripMenuItem1";
-            this.smithJohnToolStripMenuItem1.Size = new System.Drawing.Size(216, 26);
+            this.smithJohnToolStripMenuItem1.Size = new System.Drawing.Size(194, 26);
             this.smithJohnToolStripMenuItem1.Text = "Smith John";
             this.smithJohnToolStripMenuItem1.Click += new System.EventHandler(this.smithJohnToolStripMenuItem1_Click);
             // 
@@ -106,7 +106,7 @@
             this.andySmithToolStripMenuItem.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.andySmithToolStripMenuItem.ImageTransparentColor = System.Drawing.Color.White;
             this.andySmithToolStripMenuItem.Name = "andySmithToolStripMenuItem";
-            this.andySmithToolStripMenuItem.Size = new System.Drawing.Size(216, 26);
+            this.andySmithToolStripMenuItem.Size = new System.Drawing.Size(194, 26);
             this.andySmithToolStripMenuItem.Text = "Andy Smith";
             // 
             // managementToolStripMenuItem
@@ -447,12 +447,14 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(175, 548);
+            this.button1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128)))));
+            this.button1.Font = new System.Drawing.Font("Calisto MT", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button1.Location = new System.Drawing.Point(230, 524);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
+            this.button1.Size = new System.Drawing.Size(116, 52);
             this.button1.TabIndex = 62;
-            this.button1.Text = "button1";
-            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Text = "Set Limit";
+            this.button1.UseVisualStyleBackColor = false;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // Form3

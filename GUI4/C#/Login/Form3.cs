@@ -295,6 +295,8 @@ namespace Login
         private void button1_Click(object sender, EventArgs e)
         {
             // open SetLimits form
+            new SetLimits().Show();
+            this.Hide();
         }
     }
     }
