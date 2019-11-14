@@ -11,3 +11,16 @@ C:\Users\ademo\source\repos\EAHT_PatientMonitoring\EAHTManagement\obj\Debug\EAHT
 C:\Users\ademo\source\repos\EAHT_PatientMonitoring\EAHTManagement\obj\Debug\EAHTManagement.csprojResolveAssemblyReference.cache
 C:\Users\ademo\source\repos\EAHT_PatientMonitoring\EAHTManagement\bin\Debug\EAHTDataBase.mdf
 C:\Users\ademo\source\repos\EAHT_PatientMonitoring\EAHTManagement\bin\Debug\EAHTDataBase_log.ldf
+D:\Myst1k\Assignment\EAHTManagement\bin\Debug\EAHTDataBase.mdf
+D:\Myst1k\Assignment\EAHTManagement\bin\Debug\EAHTDataBase_log.ldf
+D:\Myst1k\Assignment\EAHTManagement\bin\Debug\EAHTManagement.exe.config
+D:\Myst1k\Assignment\EAHTManagement\bin\Debug\EAHTManagement.exe
+D:\Myst1k\Assignment\EAHTManagement\bin\Debug\EAHTManagement.pdb
+D:\Myst1k\Assignment\EAHTManagement\obj\Debug\EAHTManagement.csprojAssemblyReference.cache
+D:\Myst1k\Assignment\EAHTManagement\obj\Debug\EAHTManagement.DBManagementForm.resources
+D:\Myst1k\Assignment\EAHTManagement\obj\Debug\EAHTManagement.Properties.Resources.resources
+D:\Myst1k\Assignment\EAHTManagement\obj\Debug\EAHTManagement.UserLoginForm.resources
+D:\Myst1k\Assignment\EAHTManagement\obj\Debug\EAHTManagement.csproj.GenerateResource.cache
+D:\Myst1k\Assignment\EAHTManagement\obj\Debug\EAHTManagement.csproj.CoreCompileInputs.cache
+D:\Myst1k\Assignment\EAHTManagement\obj\Debug\EAHTManagement.exe
+D:\Myst1k\Assignment\EAHTManagement\obj\Debug\EAHTManagement.pdb
